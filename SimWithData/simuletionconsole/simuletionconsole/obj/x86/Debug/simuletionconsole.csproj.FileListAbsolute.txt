@@ -1,0 +1,5 @@
+c:\users\developer4\documents\visual studio 2010\Projects\simuletionconsole\simuletionconsole\obj\x86\Debug\simuletionconsole.csprojResolveAssemblyReference.cache
+c:\users\developer4\documents\visual studio 2010\Projects\simuletionconsole\simuletionconsole\bin\Debug\simuletionconsole.exe
+c:\users\developer4\documents\visual studio 2010\Projects\simuletionconsole\simuletionconsole\bin\Debug\simuletionconsole.pdb
+c:\users\developer4\documents\visual studio 2010\Projects\simuletionconsole\simuletionconsole\obj\x86\Debug\simuletionconsole.exe
+c:\users\developer4\documents\visual studio 2010\Projects\simuletionconsole\simuletionconsole\obj\x86\Debug\simuletionconsole.pdb

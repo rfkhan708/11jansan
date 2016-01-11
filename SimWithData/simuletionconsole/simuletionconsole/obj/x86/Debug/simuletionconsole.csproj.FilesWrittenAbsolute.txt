@@ -1,0 +1,16 @@
+/home/dev/Desktop/Arif/simuletionconsole/simuletionconsole/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/dev/Desktop/Arif/simuletionconsole/simuletionconsole/bin/Debug/simuletionconsole.exe.mdb
+/home/dev/Desktop/Arif/simuletionconsole/simuletionconsole/bin/Debug/simuletionconsole.exe
+/home/dev/Desktop/Arif/simuletionconsole/simuletionconsole/obj/x86/Debug/simuletionconsole.exe
+/home/dev/Desktop/Arif/simuletionconsole/simuletionconsole/obj/x86/Debug/simuletionconsole.exe.mdb
+/home/dev/Desktop/Arif/simuletionconsole/simuletionconsole/bin/Debug/Structure.dll
+/home/dev/Desktop/Arif/simuletionconsole/simuletionconsole/bin/Debug/tcpServer.dll
+/home/dev/Desktop/Arif/SimWithData/simuletionconsole/simuletionconsole/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/dev/Desktop/Arif/SimWithData/simuletionconsole/simuletionconsole/obj/x86/Debug/simuletionconsole.exe
+/home/dev/Desktop/Arif/SimWithData/simuletionconsole/simuletionconsole/obj/x86/Debug/simuletionconsole.exe.mdb
+/home/dev/Desktop/Arif/SimWithData/simuletionconsole/simuletionconsole/bin/Debug/Structure.dll
+/home/dev/Desktop/Arif/SimWithData/simuletionconsole/simuletionconsole/bin/Debug/tcpServer.dll
+/home/dev/Desktop/Arif/SimWithData/simuletionconsole/simuletionconsole/bin/Debug/NNanomsg.dll
+/home/dev/Desktop/Arif/SimWithData/simuletionconsole/simuletionconsole/bin/Debug/simuletionconsole.exe.mdb
+/home/dev/Desktop/Arif/SimWithData/simuletionconsole/simuletionconsole/bin/Debug/simuletionconsole.exe
+/home/dev/Desktop/Arif/SimWithData/simuletionconsole/simuletionconsole/bin/Debug/AMS.Profile.dll

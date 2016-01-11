@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="simuletionconsole/simuletionconsole.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="simuletionconsole/Properties/UDP_Reciever.cs">
+    <Files>
+      <File FileName="simuletionconsole/Program.cs" Line="432" Column="59" />
+      <File FileName="simuletionconsole/Properties/UDP_Reciever.cs" Line="22" Column="101" />
+      <File FileName="simuletionconsole/Properties/Global.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="simuletionconsole/Program.cs" line="282" offsetX="312" offsetY="5058" expression="trcode" liveUpdate="False" />
+    <Watch file="simuletionconsole/Program.cs" line="440" offsetX="414" offsetY="7808" expression="_objFinal.MAXBID" liveUpdate="False" />
+    <Watch file="simuletionconsole/Program.cs" line="440" offsetX="688" offsetY="7819" expression="_objFinal.MINASK" liveUpdate="False" />
+    <Watch file="simuletionconsole/Properties/UDP_Reciever.cs" line="168" offsetX="584" offsetY="3006" expression="_obj.Token" liveUpdate="False" />
+    <Watch file="simuletionconsole/Properties/UDP_Reciever.cs" line="168" offsetX="572" offsetY="2956" expression="_obj.LTP" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

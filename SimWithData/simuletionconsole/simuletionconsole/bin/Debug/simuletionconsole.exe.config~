@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration><appSettings>
+ 	 <add key="SERVER_IP" value="192.168.168.36" />
+ 	 <add key="SERVER_PORT" value="9601" />
+ 	 <add key="DATA_IP" value="192.168.168.97" />
+	 <add key="DATA_PORT" value="7171" />
+
+  
+</appSettings><startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0" />
+    </startup></configuration>

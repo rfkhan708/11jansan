@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="include/CiniRW.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1357" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="Packets.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2429" topLine="86" />
+		</Cursor>
+	</File>
+	<File name="include/TapSignOn.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1392" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="Md5.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="263" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ContractStore.h" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3173" topLine="156" />
+		</Cursor>
+	</File>
+	<File name="include/Enums.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4069" topLine="192" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="19" />
+			<Collapse line="25" />
+			<Collapse line="36" />
+			<Collapse line="46" />
+			<Collapse line="67" />
+		</Folding>
+	</File>
+	<File name="src/CiniRW.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="310" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include/StaticClass.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1653" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="include/ClientHandler.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1267" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="PFMap.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5488" topLine="204" />
+		</Cursor>
+	</File>
+	<File name="include/Socket.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="317" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Socket.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6056" topLine="200" />
+		</Cursor>
+	</File>
+	<File name="include/md5.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="68" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src/TapSignOn.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="699" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6879" topLine="223" />
+		</Cursor>
+	</File>
+	<File name="src/AutoClient.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2068" topLine="105" />
+		</Cursor>
+	</File>
+	<File name="include/StrategyClass.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="879" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2987" topLine="113" />
+		</Cursor>
+	</File>
+	<File name="src/StrategyClass.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="22597" topLine="608" />
+		</Cursor>
+	</File>
+	<File name="include/structure.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2540" topLine="123" />
+		</Cursor>
+		<Folding>
+			<Collapse line="39" />
+		</Folding>
+	</File>
+	<File name="Packets.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="130" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="src/ClientHandler.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1530" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="include/AutoClient.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3967" topLine="146" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

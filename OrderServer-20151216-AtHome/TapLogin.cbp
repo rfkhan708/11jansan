@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TapLogin" />
+		<Option pch_mode="2" />
+		<Option default_target="Release" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TapLogin" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-march=athlon64" />
+					<Add option="-std=c++0x" />
+					<Add option="-g" />
+					<Add option="-lboost_system" />
+					<Add option="-fPIC" />
+					<Add option="-lrt" />
+					<Add option="-fpermissive" />
+					<Add option="-shared" />
+					<Add option="-lmcheck" />
+					<Add directory="include" />
+					<Add directory="../../../../../usr/src/boost_1_58_0" />
+					<Add directory="../../../../../root/Downloads/nanomsg-0.5-beta/src" />
+				</Compiler>
+				<Linker>
+					<Add library="../../../../../usr/src/boost_1_58_0/stage/lib/libboost_system.so" />
+					<Add library="../../../../../usr/src/boost_1_58_0/stage/lib/libboost_thread.so" />
+					<Add library="../../../../../usr/local/lib/libnanomsg.so" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TapLogin" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-march=athlon64" />
+					<Add option="-std=c++0x" />
+					<Add option="-lboost_system" />
+					<Add option="-fPIC" />
+					<Add option="-lrt" />
+					<Add option="-fpermissive" />
+					<Add option="-shared" />
+					<Add option="-lmcheck" />
+					<Add directory="include" />
+					<Add directory="../../../../../usr/src/boost_1_58_0" />
+					<Add directory="../../../../../root/Downloads/nanomsg-0.5-beta/src" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="../../../../../usr/src/boost_1_58_0/stage/lib/libboost_system.so" />
+					<Add library="../../../../../usr/src/boost_1_58_0/stage/lib/libboost_thread.so" />
+					<Add library="../../../../../usr/local/lib/libnanomsg.so" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ContractStore.h" />
+		<Unit filename="Md5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PFMap.h" />
+		<Unit filename="Packets.cpp" />
+		<Unit filename="Packets.h" />
+		<Unit filename="Socket.cpp" />
+		<Unit filename="include/AutoClient.h" />
+		<Unit filename="include/CiniRW.h" />
+		<Unit filename="include/ClientHandler.h" />
+		<Unit filename="include/Enums.h" />
+		<Unit filename="include/Socket.h" />
+		<Unit filename="include/StaticClass.h" />
+		<Unit filename="include/StrategyClass.h" />
+		<Unit filename="include/TapSignOn.h" />
+		<Unit filename="include/md5.h" />
+		<Unit filename="include/structure.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="setting.ini" />
+		<Unit filename="src/AutoClient.cpp" />
+		<Unit filename="src/CiniRW.cpp" />
+		<Unit filename="src/ClientHandler.cpp" />
+		<Unit filename="src/StrategyClass.cpp" />
+		<Unit filename="src/TapSignOn.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

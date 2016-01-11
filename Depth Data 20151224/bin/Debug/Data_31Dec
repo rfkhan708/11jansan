@@ -1,0 +1,34 @@
+Eventsubscriber Start: ipc:///tmp/eventpubsub.ipc  ClientIdAuto: 0
+After socket connection
+MAXCLIENT 2
+
+ClientIdAuto 101
+
+ClientIdAuto 102
+
+ClientIdAuto 103
+
+Binding class 
+How many streams do you want to read ?
+ Thread 0 started for port 3333
+ multicastAddress 233.1.2.8 LanIp 192.168.168.36 port 3333 StreamID 0
+joining all stream threads
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
+IOC Subscription recieved  
